@@ -1,32 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj": {}
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
       "version": "5.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj",
+        "projectUniqueName": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj",
         "projectName": "GSoft.AbpZeroTemplate.Core.Shared",
-        "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj",
-        "packagesPath": "C:\\Users\\PhongA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\obj\\",
+        "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhongA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -72,35 +70,28 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
       "version": "5.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj",
+        "projectUniqueName": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj",
         "projectName": "GSoft.AbpZeroTemplate.Core",
-        "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj",
-        "packagesPath": "C:\\Users\\PhongA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\obj\\",
+        "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhongA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,22 +99,21 @@
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
               }
             }
           },
           "net461": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
               }
             }
           }
@@ -190,16 +180,10 @@
           },
           "imports": [
             "portable-net45+win8+wp8+wpa81",
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         },
         "net461": {
           "dependencies": {
@@ -252,27 +236,25 @@
             "portable-net45+win8+wp8+wpa81"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj": {
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj": {
       "version": "5.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj",
+        "projectUniqueName": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj",
         "projectName": "GSoft.AbpZeroTemplate.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj",
-        "packagesPath": "C:\\Users\\PhongA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\obj\\",
+        "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\GSoft.AbpZeroTemplate.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhongA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -280,34 +262,33 @@
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj"
               },
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
               },
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj"
               }
             }
           },
           "net461": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core\\GSoft.AbpZeroTemplate.Core.csproj"
               },
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
               },
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj"
               }
             }
           }
@@ -342,16 +323,10 @@
           },
           "imports": [
             "portable-net45+win8+wp8+wpa81",
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         },
         "net461": {
           "dependencies": {
@@ -372,27 +347,25 @@
             "portable-net45+win8+wp8+wpa81"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
       "version": "5.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj",
+        "projectUniqueName": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj",
         "projectName": "GWebsite.AbpZeroTemplate.Core",
-        "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj",
-        "packagesPath": "C:\\Users\\PhongA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\obj\\",
+        "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhongA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -400,22 +373,21 @@
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
               }
             }
           },
           "net461": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GSoft.AbpZeroTemplate.Core.Shared\\GSoft.AbpZeroTemplate.Core.Shared.csproj"
               }
             }
           }
@@ -446,16 +418,10 @@
           },
           "imports": [
             "portable-net45+win8+wp8+wpa81",
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         },
         "net461": {
           "dependencies": {
@@ -472,27 +438,25 @@
             "portable-net45+win8+wp8+wpa81"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
+    "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj": {
       "version": "5.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj",
+        "projectUniqueName": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj",
         "projectName": "GWebsite.AbpZeroTemplate.EntityFrameworkCore",
-        "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj",
-        "packagesPath": "C:\\Users\\PhongA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\obj\\",
+        "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\GWebsite.AbpZeroTemplate.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.EntityFrameworkCore\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\PhongA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Users\\Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -500,22 +464,21 @@
           "netcoreapp2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
               }
             }
           },
           "net461": {
             "projectReferences": {
-              "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
-                "projectPath": "C:\\Users\\PhongA\\Desktop\\University\\CNPMCS\\Code\\Config\\se214.k22.pmcl\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
+              "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj": {
+                "projectPath": "D:\\Desktop\\CC\\CManagement\\Backend\\src\\GWebsite.AbpZeroTemplate.Core\\GWebsite.AbpZeroTemplate.Core.csproj"
               }
             }
           }
@@ -538,24 +501,17 @@
           },
           "imports": [
             "portable-net45+win8+wp8+wpa81",
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         },
         "net461": {
           "imports": [
             "portable-net45+win8+wp8+wpa81"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

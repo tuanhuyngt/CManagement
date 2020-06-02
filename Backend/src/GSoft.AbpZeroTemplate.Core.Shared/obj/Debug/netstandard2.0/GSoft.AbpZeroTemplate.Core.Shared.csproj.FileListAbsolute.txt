@@ -7,3 +7,12 @@ C:\Users\PhongA\Desktop\University\CNPMCS\Code\Config\se214.k22.pmcl\Backend\src
 C:\Users\PhongA\Desktop\University\CNPMCS\Code\Config\se214.k22.pmcl\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.AssemblyInfo.cs
 C:\Users\PhongA\Desktop\University\CNPMCS\Code\Config\se214.k22.pmcl\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.dll
 C:\Users\PhongA\Desktop\University\CNPMCS\Code\Config\se214.k22.pmcl\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.pdb
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.deps.json
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.dll
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\bin\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.pdb
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.csprojAssemblyReference.cache
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.csproj.CoreCompileInputs.cache
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.AssemblyInfoInputs.cache
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.AssemblyInfo.cs
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.dll
+D:\Desktop\CC\CManagement\Backend\src\GSoft.AbpZeroTemplate.Core.Shared\obj\Debug\netstandard2.0\GSoft.AbpZeroTemplate.Core.Shared.pdb

@@ -19,7 +19,7 @@ namespace GSoft.AbpZeroTemplate.Helpers
         private readonly string connectionString;
         public ProcedureHelper()
         {
-            connectionString = "Server=DESKTOP-NNJQRA4\\PHONGA; Database=DbPratice; Trusted_Connection=True;";
+            connectionString = "Data Source=LAPTOP-07947GSM;Initial Catalog=DbPratice;Integrated Security=True";
         }
 
         private List<ProcedureParamInfo> GetParamInfos(IDbConnection conn, string procedureName)

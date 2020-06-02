@@ -3,3 +3,6 @@
 Backend/docker
 Backend/docs
 Backend/build
+Backend/src/GSoft.AbpZeroTemplate.Application.Shared/bin/Debug
+Backend/src/GSoft.AbpZeroTemplate.Application.Shared/obj
+Backend/src/GSoft.AbpZeroTemplate.Application/bin
