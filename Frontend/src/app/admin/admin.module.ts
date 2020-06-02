@@ -52,6 +52,7 @@ import { CreateOrEditUserModalComponent } from './users/create-or-edit-user-moda
 import { EditUserPermissionsModalComponent } from './users/edit-user-permissions-modal.component';
 import { ImpersonationService } from './users/impersonation.service';
 import { UsersComponent } from './users/users.component';
+import { ModulesModule } from '../modules/modules.module';
 
 @NgModule({
     imports: [
@@ -70,7 +71,8 @@ import { UsersComponent } from './users/users.component';
         PrimeNgFileUploadModule,
         AutoCompleteModule,
         EditorModule,
-        InputMaskModule
+        InputMaskModule,
+        ModulesModule
     ],
     declarations: [
         UsersComponent,
