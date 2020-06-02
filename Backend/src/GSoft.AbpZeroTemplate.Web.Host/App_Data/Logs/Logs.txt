@@ -1212,3 +1212,371 @@ INFO  2020-06-02 18:38:04,725 [31   ] ore.Mvc.Internal.ControllerActionInvoker -
 INFO  2020-06-02 18:38:04,729 [31   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
 INFO  2020-06-02 18:38:04,729 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Search (Group2.AbpZeroTemplate.Web.Core) in 36.2276ms
 INFO  2020-06-02 18:38:04,729 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 41.9983ms 200 application/json; charset=utf-8
+DEBUG 2020-06-02 19:33:28,255 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-06-02 19:33:29,223 [1    ] Abp.Modules.AbpModuleManager             - Found 49 ABP modules in total.
+DEBUG 2020-06-02 19:33:29,453 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.Web.Startup.AbpZeroTemplateWebHostModule, GSoft.AbpZeroTemplate.Web.Host, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,464 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.Web.AbpZeroTemplateWebCoreModule, GSoft.AbpZeroTemplate.Web.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,465 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.AbpZeroTemplateApplicationModule, GSoft.AbpZeroTemplate.Application, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,467 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.AbpZeroTemplateCoreModule, GSoft.AbpZeroTemplate.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,468 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,469 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,469 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,470 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.Ldap.AbpZeroLdapModule, Abp.Zero.Ldap, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,472 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,474 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetZeroCore.AbpAspNetZeroCoreModule, Abp.AspNetZeroCore, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.MailKit.AbpMailKitModule, Abp.MailKit, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,475 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Application.GWebsiteApplicationModule, GWebsite.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,476 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group0.AbpZeroTemplate.Application.Group0ApplicationModule, Group0.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,477 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group1.AbpZeroTemplate.Application.Group1ApplicationModule, Group1.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,478 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group2.AbpZeroTemplate.Application.Group2ApplicationModule, Group2.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,479 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group3.AbpZeroTemplate.Application.Group3ApplicationModule, Group3.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,480 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group4.AbpZeroTemplate.Application.Group4ApplicationModule, Group4.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,481 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group5.AbpZeroTemplate.Application.Group5ApplicationModule, Group5.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,483 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group6.AbpZeroTemplate.Application.Group6ApplicationModule, Group6.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,484 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group7.AbpZeroTemplate.Application.Group7ApplicationModule, Group7.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,485 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group8.AbpZeroTemplate.Application.Group8ApplicationModule, Group8.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,487 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group9.AbpZeroTemplate.Application.Group9ApplicationModule, Group9.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,488 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group10.AbpZeroTemplate.Application.Group10ApplicationModule, Group10.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,489 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.EntityFrameworkCore.AbpZeroTemplateEntityFrameworkCoreModule, GSoft.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,490 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.EntityFrameworkCore.GWebsiteEntityFrameworkCoreModule, GWebsite.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,491 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,492 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,493 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.IdentityServer4.AbpZeroCoreIdentityServerEntityFrameworkCoreModule, Abp.ZeroCore.IdentityServer4.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,494 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.IdentityServer4.AbpZeroCoreIdentityServerModule, Abp.ZeroCore.IdentityServer4, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,495 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Application.GWebsiteCoreModule, GWebsite.AbpZeroTemplate.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,496 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetZeroCore.Web.AbpAspNetZeroCoreWebModule, Abp.AspNetZeroCore.Web, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,497 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,498 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,499 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,500 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Runtime.Caching.Redis.AbpRedisCacheModule, Abp.RedisCache, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,501 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,503 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group0.AbpZeroTemplate.Web.Core.Group0WebCoreModule, Group0.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,504 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group1.AbpZeroTemplate.Web.Core.Group1WebCoreModule, Group1.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,505 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group2.AbpZeroTemplate.Web.Core.Group2WebCoreModule, Group2.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,507 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group3.AbpZeroTemplate.Web.Core.Group3WebCoreModule, Group3.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,508 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group4.AbpZeroTemplate.Web.Core.Group4WebCoreModule, Group4.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,509 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group5.AbpZeroTemplate.Web.Core.Group5WebCoreModule, Group5.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,511 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group6.AbpZeroTemplate.Web.Core.Group6WebCoreModule, Group6.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,512 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group7.AbpZeroTemplate.Web.Core.Group7WebCoreModule, Group7.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,513 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group8.AbpZeroTemplate.Web.Core.Group8WebCoreModule, Group8.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,514 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group9.AbpZeroTemplate.Web.Core.Group9WebCoreModule, Group9.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,515 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group10.AbpZeroTemplate.Web.Core.Group10WebCoreModule, Group10.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,516 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Web.Core.GWebsiteWebCoreModule, GWebsite.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:29,531 [1    ] Abp.Modules.AbpModuleManager             - 49 modules loaded.
+DEBUG 2020-06-02 19:33:30,365 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:33:30,365 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:33:30,365 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZeroTemplate (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:33:30,365 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:33:32,036 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: GSoft.AbpZeroTemplate.EntityFrameworkCore.AbpZeroTemplateDbContext, GSoft.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:33:34,540 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-06-02 19:33:34,663 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-06-02 19:33:34,709 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-06-02 19:33:34,818 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZeroTemplate
+DEBUG 2020-06-02 19:33:34,833 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-06-02 19:33:34,944 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2020-06-02 19:33:35,107 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 2 classes define auto mapping attributes
+DEBUG 2020-06-02 19:33:35,107 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - GSoft.AbpZeroTemplate.Web.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-06-02 19:33:35,117 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - GSoft.AbpZeroTemplate.Friendships.Cache.FriendCacheItem
+DEBUG 2020-06-02 19:33:49,735 [1    ] enancy.SubscriptionExpirationCheckWorker - Start background worker: GSoft.AbpZeroTemplate.MultiTenancy.SubscriptionExpirationCheckWorker
+DEBUG 2020-06-02 19:33:49,740 [1    ] cy.SubscriptionExpireEmailNotifierWorker - Start background worker: GSoft.AbpZeroTemplate.MultiTenancy.SubscriptionExpireEmailNotifierWorker
+INFO  2020-06-02 19:33:52,810 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/  
+INFO  2020-06-02 19:33:54,588 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host)
+INFO  2020-06-02 19:33:54,752 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) - Validation state: Valid
+INFO  2020-06-02 19:33:54,761 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 3.7959ms.
+INFO  2020-06-02 19:33:54,803 [9    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-06-02 19:33:54,829 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) in 232.6262ms
+INFO  2020-06-02 19:33:54,956 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2168.4555ms 302 
+INFO  2020-06-02 19:33:54,990 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/index.html  
+INFO  2020-06-02 19:33:55,114 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 123.6055ms 200 text/html
+INFO  2020-06-02 19:33:55,204 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui.css  
+INFO  2020-06-02 19:33:55,212 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-bundle.js  
+INFO  2020-06-02 19:33:55,214 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-06-02 19:33:55,216 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.js  
+INFO  2020-06-02 19:33:55,216 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.swagger.js  
+INFO  2020-06-02 19:33:55,243 [9    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2020-06-02 19:33:55,243 [4    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.swagger.js was not modified
+INFO  2020-06-02 19:33:55,243 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2020-06-02 19:33:55,243 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2020-06-02 19:33:55,243 [11   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.js was not modified
+INFO  2020-06-02 19:33:55,249 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.7487ms 304 application/javascript
+INFO  2020-06-02 19:33:55,249 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.4862ms 304 application/javascript
+INFO  2020-06-02 19:33:55,249 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 33.356ms 304 application/javascript
+INFO  2020-06-02 19:33:55,249 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.24ms 304 text/css
+INFO  2020-06-02 19:33:55,249 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 35.3865ms 304 application/javascript
+INFO  2020-06-02 19:33:55,777 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/v1/swagger.json  
+INFO  2020-06-02 19:33:55,966 [8    ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 19:33:56,129 [8    ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 19:33:57,698 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1920.7695ms 200 application/json;charset=utf-8
+INFO  2020-06-02 19:36:27,710 [23   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:22742/api/Group2ThanhLy/THANHLY_Group2Ins application/json-patch+json 183
+INFO  2020-06-02 19:36:27,716 [23   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 19:36:27,716 [23   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 19:36:27,720 [23   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 19:36:27,720 [23   ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 19:36:27,759 [23   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "THANHLY_Group2Ins", controller = "Group2ThanhLy", area = ""}. Executing action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core)
+INFO  2020-06-02 19:36:27,759 [23   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 19:36:27,760 [23   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+WARN  2020-06-02 19:36:28,600 [22   ] Mvc.ExceptionHandling.AbpExceptionFilter - Method arguments are not valid! See ValidationErrors for details.
+Abp.Runtime.Validation.AbpValidationException: Method arguments are not valid! See ValidationErrors for details.
+   at Abp.Runtime.Validation.Interception.MethodInvocationValidator.ThrowValidationError() in D:\Github\aspnetboilerplate\src\Abp\Runtime\Validation\Interception\MethodInvocationValidator.cs:line 118
+   at Abp.Runtime.Validation.Interception.MethodInvocationValidator.Validate() in D:\Github\aspnetboilerplate\src\Abp\Runtime\Validation\Interception\MethodInvocationValidator.cs:line 89
+   at Abp.AspNetCore.Mvc.Validation.AbpValidationActionFilter.OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Validation\AbpValidationActionFilter.cs:line 35
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeNextActionFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.InvokeInnerFilterAsync()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.InvokeNextExceptionFilterAsync()
+WARN  2020-06-02 19:36:28,604 [22   ] Mvc.ExceptionHandling.AbpExceptionFilter - There are 2 validation errors:
+WARN  2020-06-02 19:36:28,604 [22   ] Mvc.ExceptionHandling.AbpExceptionFilter - Unexpected character encountered while parsing value: c. Path 'thanhLy_LyDo', line 3, position 19. (thanhLy_LyDo)
+WARN  2020-06-02 19:36:28,604 [22   ] Mvc.ExceptionHandling.AbpExceptionFilter - Unexpected character encountered while parsing value: h. Path 'thanhLy_LyDo', line 3, position 19. (thanhLy_LyDo)
+INFO  2020-06-02 19:36:28,956 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-06-02 19:36:29,023 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) in 1263.6432ms
+INFO  2020-06-02 19:36:29,046 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1336.6159ms 400 application/json; charset=utf-8
+DEBUG 2020-06-02 19:46:42,225 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-06-02 19:46:42,604 [1    ] Abp.Modules.AbpModuleManager             - Found 49 ABP modules in total.
+DEBUG 2020-06-02 19:46:42,785 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.Web.Startup.AbpZeroTemplateWebHostModule, GSoft.AbpZeroTemplate.Web.Host, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,796 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.Web.AbpZeroTemplateWebCoreModule, GSoft.AbpZeroTemplate.Web.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,798 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.AbpZeroTemplateApplicationModule, GSoft.AbpZeroTemplate.Application, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,799 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.AbpZeroTemplateCoreModule, GSoft.AbpZeroTemplate.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,800 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,801 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,802 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,802 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.Ldap.AbpZeroLdapModule, Abp.Zero.Ldap, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,804 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,805 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetZeroCore.AbpAspNetZeroCoreModule, Abp.AspNetZeroCore, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,806 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.MailKit.AbpMailKitModule, Abp.MailKit, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,807 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Application.GWebsiteApplicationModule, GWebsite.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,808 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group0.AbpZeroTemplate.Application.Group0ApplicationModule, Group0.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,809 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group1.AbpZeroTemplate.Application.Group1ApplicationModule, Group1.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,810 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group2.AbpZeroTemplate.Application.Group2ApplicationModule, Group2.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,811 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group3.AbpZeroTemplate.Application.Group3ApplicationModule, Group3.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,811 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group4.AbpZeroTemplate.Application.Group4ApplicationModule, Group4.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,812 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group5.AbpZeroTemplate.Application.Group5ApplicationModule, Group5.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,813 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group6.AbpZeroTemplate.Application.Group6ApplicationModule, Group6.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,814 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group7.AbpZeroTemplate.Application.Group7ApplicationModule, Group7.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,816 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group8.AbpZeroTemplate.Application.Group8ApplicationModule, Group8.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,817 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group9.AbpZeroTemplate.Application.Group9ApplicationModule, Group9.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,818 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group10.AbpZeroTemplate.Application.Group10ApplicationModule, Group10.AbpZeroTemplate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,819 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GSoft.AbpZeroTemplate.EntityFrameworkCore.AbpZeroTemplateEntityFrameworkCoreModule, GSoft.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,819 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.EntityFrameworkCore.GWebsiteEntityFrameworkCoreModule, GWebsite.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,820 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,821 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,822 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,823 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.IdentityServer4.AbpZeroCoreIdentityServerEntityFrameworkCoreModule, Abp.ZeroCore.IdentityServer4.EntityFrameworkCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,824 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.IdentityServer4.AbpZeroCoreIdentityServerModule, Abp.ZeroCore.IdentityServer4, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,825 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Application.GWebsiteCoreModule, GWebsite.AbpZeroTemplate.Core, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,825 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetZeroCore.Web.AbpAspNetZeroCoreWebModule, Abp.AspNetZeroCore.Web, Version=1.1.3.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,826 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,827 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,828 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,828 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Runtime.Caching.Redis.AbpRedisCacheModule, Abp.RedisCache, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,829 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Hangfire.AbpHangfireAspNetCoreModule, Abp.HangFire.AspNetCore, Version=3.7.2.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,830 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group0.AbpZeroTemplate.Web.Core.Group0WebCoreModule, Group0.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,831 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group1.AbpZeroTemplate.Web.Core.Group1WebCoreModule, Group1.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,832 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group2.AbpZeroTemplate.Web.Core.Group2WebCoreModule, Group2.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,833 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group3.AbpZeroTemplate.Web.Core.Group3WebCoreModule, Group3.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,834 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group4.AbpZeroTemplate.Web.Core.Group4WebCoreModule, Group4.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,835 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group5.AbpZeroTemplate.Web.Core.Group5WebCoreModule, Group5.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,835 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group6.AbpZeroTemplate.Web.Core.Group6WebCoreModule, Group6.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,836 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group7.AbpZeroTemplate.Web.Core.Group7WebCoreModule, Group7.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,837 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group8.AbpZeroTemplate.Web.Core.Group8WebCoreModule, Group8.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,837 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group9.AbpZeroTemplate.Web.Core.Group9WebCoreModule, Group9.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,838 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Group10.AbpZeroTemplate.Web.Core.Group10WebCoreModule, Group10.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,838 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: GWebsite.AbpZeroTemplate.Web.Core.GWebsiteWebCoreModule, GWebsite.AbpZeroTemplate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:42,847 [1    ] Abp.Modules.AbpModuleManager             - 49 modules loaded.
+DEBUG 2020-06-02 19:46:43,291 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:46:43,291 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:46:43,291 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZeroTemplate (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:46:43,291 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-06-02 19:46:44,310 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: GSoft.AbpZeroTemplate.EntityFrameworkCore.AbpZeroTemplateDbContext, GSoft.AbpZeroTemplate.EntityFrameworkCore, Version=5.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-06-02 19:46:45,976 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-06-02 19:46:46,141 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-06-02 19:46:46,175 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-06-02 19:46:46,234 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZeroTemplate
+DEBUG 2020-06-02 19:46:46,248 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-06-02 19:46:46,321 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2020-06-02 19:46:46,424 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 2 classes define auto mapping attributes
+DEBUG 2020-06-02 19:46:46,424 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - GSoft.AbpZeroTemplate.Web.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-06-02 19:46:46,432 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - GSoft.AbpZeroTemplate.Friendships.Cache.FriendCacheItem
+DEBUG 2020-06-02 19:46:57,828 [1    ] enancy.SubscriptionExpirationCheckWorker - Start background worker: GSoft.AbpZeroTemplate.MultiTenancy.SubscriptionExpirationCheckWorker
+DEBUG 2020-06-02 19:46:57,834 [1    ] cy.SubscriptionExpireEmailNotifierWorker - Start background worker: GSoft.AbpZeroTemplate.MultiTenancy.SubscriptionExpireEmailNotifierWorker
+INFO  2020-06-02 19:47:00,464 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/  
+INFO  2020-06-02 19:47:02,115 [8    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host)
+INFO  2020-06-02 19:47:02,318 [8    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) - Validation state: Valid
+INFO  2020-06-02 19:47:02,331 [8    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 6.088ms.
+INFO  2020-06-02 19:47:02,381 [8    ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-06-02 19:47:02,403 [8    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) in 280.8773ms
+INFO  2020-06-02 19:47:02,609 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2155.1286ms 302 
+INFO  2020-06-02 19:47:02,616 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/index.html  
+INFO  2020-06-02 19:47:02,737 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 120.985ms 200 text/html
+INFO  2020-06-02 19:47:02,795 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui.css  
+INFO  2020-06-02 19:47:02,798 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-06-02 19:47:02,799 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-bundle.js  
+INFO  2020-06-02 19:47:02,806 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.js  
+INFO  2020-06-02 19:47:02,806 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.swagger.js  
+INFO  2020-06-02 19:47:02,839 [9    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.swagger.js was not modified
+INFO  2020-06-02 19:47:02,839 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.js was not modified
+INFO  2020-06-02 19:47:02,839 [12   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2020-06-02 19:47:02,839 [10   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2020-06-02 19:47:02,839 [8    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2020-06-02 19:47:02,845 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.3609ms 304 text/css
+INFO  2020-06-02 19:47:02,845 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.8982ms 304 application/javascript
+INFO  2020-06-02 19:47:02,845 [8    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 46.2851ms 304 application/javascript
+INFO  2020-06-02 19:47:02,845 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.3233ms 304 application/javascript
+INFO  2020-06-02 19:47:02,845 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 38.6724ms 304 application/javascript
+INFO  2020-06-02 19:47:03,419 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/v1/swagger.json  
+INFO  2020-06-02 19:47:03,585 [4    ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 19:47:03,647 [4    ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 19:47:05,152 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1732.7306ms 200 application/json;charset=utf-8
+INFO  2020-06-02 19:48:01,635 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:22742/api/Group2ThanhLy/THANHLY_Group2Ins application/json-patch+json 136
+INFO  2020-06-02 19:48:01,642 [9    ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 19:48:01,642 [9    ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 19:48:01,647 [9    ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 19:48:01,648 [9    ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 19:48:01,712 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "THANHLY_Group2Ins", controller = "Group2ThanhLy", area = ""}. Executing action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core)
+INFO  2020-06-02 19:48:01,713 [9    ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 19:48:01,713 [9    ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 19:48:02,143 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) with arguments (Group2.AbpZeroTemplate.Application.Share.Group2.Dto.Group2ThanhLyDto) - Validation state: Valid
+INFO  2020-06-02 19:48:03,298 [9    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1155.2826ms.
+INFO  2020-06-02 19:48:03,513 [15   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-06-02 19:48:03,564 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) in 1851.4488ms
+INFO  2020-06-02 19:48:03,587 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1952.7359ms 200 application/json; charset=utf-8
+INFO  2020-06-02 20:16:04,377 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:22742/api/Group2ThanhLy/THANHLY_Group2Ins application/json-patch+json 141
+INFO  2020-06-02 20:16:04,377 [14   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:16:04,377 [14   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:16:04,378 [14   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 20:16:04,378 [14   ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 20:16:04,385 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "THANHLY_Group2Ins", controller = "Group2ThanhLy", area = ""}. Executing action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core)
+INFO  2020-06-02 20:16:04,385 [14   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:16:04,385 [14   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:16:04,389 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) with arguments (Group2.AbpZeroTemplate.Application.Share.Group2.Dto.Group2ThanhLyDto) - Validation state: Valid
+INFO  2020-06-02 20:16:04,465 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 75.9209ms.
+INFO  2020-06-02 20:16:04,472 [14   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-06-02 20:16:04,472 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) in 87.1248ms
+INFO  2020-06-02 20:16:04,472 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.5555ms 200 application/json; charset=utf-8
+INFO  2020-06-02 20:17:05,544 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/index.html  
+INFO  2020-06-02 20:17:05,548 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.2999ms 200 text/html
+INFO  2020-06-02 20:17:05,727 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui.css  
+INFO  2020-06-02 20:17:05,731 [46   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2020-06-02 20:17:05,731 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.8399ms 304 text/css
+INFO  2020-06-02 20:17:05,735 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-bundle.js  
+INFO  2020-06-02 20:17:05,737 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.js  
+INFO  2020-06-02 20:17:05,737 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-06-02 20:17:05,738 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/ui/abp.swagger.js  
+INFO  2020-06-02 20:17:05,739 [46   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.js was not modified
+INFO  2020-06-02 20:17:05,739 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2020-06-02 20:17:05,739 [46   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.4341ms 304 application/javascript
+INFO  2020-06-02 20:17:05,740 [4    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger/ui/abp.swagger.js was not modified
+INFO  2020-06-02 20:17:05,740 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.6921ms 304 application/javascript
+INFO  2020-06-02 20:17:05,740 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.3504ms 304 application/javascript
+INFO  2020-06-02 20:17:05,742 [45   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2020-06-02 20:17:05,742 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4.7398ms 304 application/javascript
+INFO  2020-06-02 20:17:06,545 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/v1/swagger.json  
+INFO  2020-06-02 20:17:06,547 [45   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 20:17:06,547 [45   ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 20:17:06,562 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/favicon-32x32.png  
+INFO  2020-06-02 20:17:06,593 [3    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2020-06-02 20:17:06,593 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.2775ms 200 image/png
+INFO  2020-06-02 20:17:06,686 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 140.8799ms 200 application/json;charset=utf-8
+INFO  2020-06-02 20:17:10,884 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/  
+INFO  2020-06-02 20:17:10,892 [45   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host)
+INFO  2020-06-02 20:17:10,893 [45   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) - Validation state: Valid
+INFO  2020-06-02 20:17:10,893 [45   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 0.0115ms.
+INFO  2020-06-02 20:17:10,893 [45   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2020-06-02 20:17:10,894 [45   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action GSoft.AbpZeroTemplate.Web.Controllers.HomeController.Index (GSoft.AbpZeroTemplate.Web.Host) in 1.7897ms
+INFO  2020-06-02 20:17:10,894 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 9.9679ms 302 
+INFO  2020-06-02 20:17:10,919 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/index.html  
+INFO  2020-06-02 20:17:10,921 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.882ms 200 text/html
+INFO  2020-06-02 20:17:11,001 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui.css  
+INFO  2020-06-02 20:17:11,001 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-bundle.js  
+INFO  2020-06-02 20:17:11,002 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/swagger-ui-standalone-preset.js  
+INFO  2020-06-02 20:17:11,003 [45   ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui.css was not modified
+INFO  2020-06-02 20:17:11,003 [45   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2.0896ms 304 text/css
+INFO  2020-06-02 20:17:11,003 [3    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-bundle.js was not modified
+INFO  2020-06-02 20:17:11,003 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.6109ms 304 application/javascript
+INFO  2020-06-02 20:17:11,004 [6    ] NetCore.StaticFiles.StaticFileMiddleware - The file /swagger-ui-standalone-preset.js was not modified
+INFO  2020-06-02 20:17:11,004 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1.8234ms 304 application/javascript
+INFO  2020-06-02 20:17:11,271 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:22742/swagger/v1/swagger.json  
+INFO  2020-06-02 20:17:11,272 [6    ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 20:17:11,272 [6    ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 20:17:11,366 [3    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.6677ms 200 application/json;charset=utf-8
+INFO  2020-06-02 20:18:40,984 [52   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:22742/api/Group2ThanhLy/THANHLY_Group2Ins application/json-patch+json 187
+INFO  2020-06-02 20:18:40,984 [52   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:18:40,984 [52   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:18:40,985 [52   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 20:18:40,986 [52   ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 20:18:40,991 [52   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "THANHLY_Group2Ins", controller = "Group2ThanhLy", area = ""}. Executing action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core)
+INFO  2020-06-02 20:18:40,991 [52   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:18:40,991 [52   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:18:41,029 [52   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) with arguments (Group2.AbpZeroTemplate.Application.Share.Group2.Dto.Group2ThanhLyDto) - Validation state: Valid
+INFO  2020-06-02 20:18:41,139 [52   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 109.6779ms.
+INFO  2020-06-02 20:18:41,144 [52   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-06-02 20:18:41,144 [52   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2Ins (Group2.AbpZeroTemplate.Web.Core) in 153.0366ms
+INFO  2020-06-02 20:18:41,145 [52   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 160.6761ms 200 application/json; charset=utf-8
+INFO  2020-06-02 20:20:05,813 [51   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:22742/api/Group2ThanhLy/THANHLY_Group2UpdateThanhLy?thanhLy_MaXe=2  0
+INFO  2020-06-02 20:20:05,813 [51   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:20:05,813 [51   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:20:05,814 [51   ] uthentication.JwtBearer.JwtBearerHandler - Failed to validate the token.
+Microsoft.IdentityModel.Tokens.SecurityTokenExpiredException: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+   at Microsoft.IdentityModel.Tokens.Validators.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, SecurityToken securityToken, TokenValidationParameters validationParameters) in C:\agent2\_work\15\s\src\Microsoft.IdentityModel.Tokens\Validators.cs:line 269
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateLifetime(Nullable`1 notBefore, Nullable`1 expires, JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateTokenPayload(JwtSecurityToken jwtToken, TokenValidationParameters validationParameters)
+   at System.IdentityModel.Tokens.Jwt.JwtSecurityTokenHandler.ValidateToken(String token, TokenValidationParameters validationParameters, SecurityToken& validatedToken)
+   at Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler.HandleAuthenticateAsync()
+INFO  2020-06-02 20:20:05,814 [51   ] uthentication.JwtBearer.JwtBearerHandler - Bearer was not authenticated. Failure message: IDX10223: Lifetime validation failed. The token is expired. ValidTo: '[PII is hidden]', Current time: '[PII is hidden]'.
+INFO  2020-06-02 20:20:05,831 [51   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "THANHLY_Group2UpdateThanhLy", controller = "Group2ThanhLy", area = ""}. Executing action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2UpdateThanhLy (Group2.AbpZeroTemplate.Web.Core)
+INFO  2020-06-02 20:20:05,831 [51   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution failed.
+INFO  2020-06-02 20:20:05,831 [51   ] pNetCore.Cors.Infrastructure.CorsService - Request origin http://localhost:22742 does not have permission to access the resource.
+INFO  2020-06-02 20:20:05,851 [51   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2UpdateThanhLy (Group2.AbpZeroTemplate.Web.Core) with arguments (2) - Validation state: Valid
+INFO  2020-06-02 20:20:05,896 [51   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2UpdateThanhLy (Group2.AbpZeroTemplate.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 44.5415ms.
+INFO  2020-06-02 20:20:05,900 [59   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2020-06-02 20:20:05,900 [59   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Group2.AbpZeroTemplate.Application.Controllers.Group2ThanhLyController.THANHLY_Group2UpdateThanhLy (Group2.AbpZeroTemplate.Web.Core) in 69.7519ms
+INFO  2020-06-02 20:20:05,901 [59   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.7294ms 200 application/json; charset=utf-8

@@ -22,11 +22,11 @@ namespace Group2.AbpZeroTemplate.Application.Controllers
             this.Group2ThanhLyAppService = Group2ThanhLyAppService;
         }
     
-        [HttpGet]
-        public string test()
-        {
-            return Group2ThanhLyAppService.test();
-        }
+        //[HttpGet]
+        //public string test()
+        //{
+        //    return Group2ThanhLyAppService.test();
+        //}
         [HttpPost]
         public List<Group2ThanhLyDto> THANHLY_Group2Search([FromBody]Group2ThanhLyDto input)
         {

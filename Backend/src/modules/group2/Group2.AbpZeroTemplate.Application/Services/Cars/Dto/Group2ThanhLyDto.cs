@@ -5,7 +5,7 @@ namespace Group2.AbpZeroTemplate.Application.Share.Group2.Dto
 {
     public class Group2ThanhLyDto
     {
-        public int Ma { get; set; }
+        //public int Ma { get; set; }
         public int? ThanhLy_MaXe { get; set; }
         public string ThanhLy_LyDo { get; set; }
         public string ThanhLy_NguoiMua { get; set; }

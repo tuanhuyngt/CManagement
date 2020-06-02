@@ -18,7 +18,7 @@ namespace Group2.AbpZeroTemplate.Web.Core.Cars
         List<Group2ThanhLyDto> THANHLY_Group2Search(Group2ThanhLyDto input);
         IDictionary<string, object> THANHLY_Group2Ins(Group2ThanhLyDto input);
         IDictionary<string, object> THANHLY_Group2UpdateTrangThai(int thanhLy_MaXe);
-        string test();
+        //string test();
 
     }
     public class Group2ThanhLyAppService : BaseService, IGroup2ThanhLyAppService
@@ -40,9 +40,9 @@ namespace Group2.AbpZeroTemplate.Web.Core.Cars
             return procedureHelper.GetData<dynamic>("THANHLY_Group2UpdateTrangThai", new {ThanhLy_MaXe = thanhLy_MaXe}).FirstOrDefault();
         }
 
-        public string test()
-        {
-            return "Group2 Config success!";
-        }
+        //public string test()
+        //{
+        //    return "Group2 Config success!";
+        //}
     }
 }
